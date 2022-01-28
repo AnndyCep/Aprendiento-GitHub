@@ -3,4 +3,7 @@ Esta es la historia de Andres Cepeda
 
 El tiene 25 años, y esta aprendiendo a utilizar git, y sus codigos.
 
-Gracias.
+Desde aqui creo un rama, en Git, para practicar, moviendome entre la rama mastar, y rama Develoment
+Desde este punto hago, procesos que desconocia,
+
+Ahora estoy gestionado procesos en la rama Develoment, quiero saber que pasa
