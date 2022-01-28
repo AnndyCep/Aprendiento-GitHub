@@ -1,7 +1,6 @@
 
 Esta es la historia de Andres Cepeda
 
-Andres Cepeda tiene 24 años y nacio en Colombia
-Vive en Kenedy
+El tiene 25 años, y esta aprendiendo a utilizar git, y sus codigos.
 
-Estudio ingenieria de Software.
+Gracias.
