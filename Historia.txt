@@ -6,4 +6,13 @@ El tiene 25 años, y esta aprendiendo a utilizar git, y sus codigos.
 
 
 Desde aqui creo un rama, en Git, para practicar, moviendome entre la rama mastar, y rama Develoment
+<<<<<<< HEAD
 Desde este punto hago, procesos que desconocia,
+=======
+Desde este punto hago, procesos que desconocia,
+
+Desde aqui voy a reunir todos los datos, hago un commut en la rama develoment para saber que ocurre, para luego desde la rama
+master, hacer el merges
+>>>>>>> Develoment
+
+Quiero intentar hacer un git commit -am, para confirmar si gestiona los cambios.
